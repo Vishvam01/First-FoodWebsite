@@ -69,17 +69,21 @@ header{
     color:aquamarine;
     font-weight: bolder;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    margin-left:21%;
-    margin-top:3.5%;
+     /* margin-left:21%; */
+    margin-top:2%;
+    text-align:center;
 }
 
 .dropdown{
-    width: 54%;
+    /* width: 54%; */
     height: 50px;
     border:8px groove skyblue;
-    margin-top:1.5%;
-    margin-left:21%;
+    margin-top:1%;
+    margin-left:23%;
+    margin-right:23%;
+    text-align: center;
 }
+
 select{
     height:90%;
     width:49%;
